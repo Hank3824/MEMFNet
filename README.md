@@ -53,5 +53,4 @@ The [Roost](https://github.com/CompRhys/roost) (Representation Learning from Sto
 * R. E. A. Goodall and A. A. Lee, Predicting Materials Properties without Crystal Structure: Deep Representation Learning from Stoichiometry, Nat. Commun. 11, 6280 (2020). [[link]](http://www.nature.com/articles/s41467-020-19964-7)
 
 * V. Tshitoyan, J. Dagdelen, L. Weston, A. Dunn, Z. Rong, O. Kononova, K. A. Persson, G. Ceder, and A. Jain, Unsupervised Word Embeddings Capture Latent Knowledge from Materials Science Literature, Nature 571, 95 (2019). [[link]](http://www.nature.com/articles/s41586-019-1335-8)
-* P. Zhong, et al., Deep learning of experimental electrochemistry for battery cathodes across diverse compositions. Joule (2024). [[link]](https://doi.org/10.1016/j.joule.2024.03.010) [[code]](https://github.com/zhongpc/drxnet)
 
